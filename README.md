@@ -6,7 +6,6 @@ This Python project utilizes OpenCV to perform real-time eye and face detection 
 
 - Python 3.x
 - OpenCV (cv2)
---
 
 ## Installation
 
