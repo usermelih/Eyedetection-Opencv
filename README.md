@@ -1,11 +1,12 @@
 # Eye and Face Detection with OpenCV
 
-This Python project utilizes OpenCV to perform real-time eye and face detection through your webcam. It opens two windows—one for eye detection and another for face detection.
+This Python project utilizes OpenCV to perform real-time eye and face detection through your webcam. It aims to determine whether the eyes in the captured frames are open or closed. The script provides a dynamic interface, allowing you to adjust parameters such as `min_neighbors` and `scale_factor` in real-time to optimize the eye detection process.
 
 ## Requirements
 
 - Python 3.x
 - OpenCV (cv2)
+--
 
 ## Installation
 
